@@ -39,7 +39,7 @@
     separador
     
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 1.1. Sistema turístico
+      h2 1.1 Sistema turístico
 
 
     .row.align-items-center.mb-5(data-aos="fade-right")
