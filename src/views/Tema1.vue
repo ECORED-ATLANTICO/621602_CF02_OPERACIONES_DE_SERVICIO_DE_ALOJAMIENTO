@@ -163,7 +163,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-9.mb-3.mb-lg-0
-        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-11 bg-fondo-4")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta bg-color-23")
           div(titulo="Atractivos turísticos:")
             p.ms-5 Son uno de los componentes fundamentales del producto turístico y corresponden a elementos que generan el interés del visitante y motivan el desplazamiento hacia un destino. Estos pueden ser de carácter natural, como paisajes, parques o reservas; culturales, como museos, patrimonio histórico y manifestaciones artísticas; o sociales, como eventos, festividades y expresiones folclóricas. Los atractivos constituyen el eje central del turismo, ya que son el principal motivo de viaje y el elemento diferenciador entre destinos.
           div(titulo="Servicios turísticos:")
@@ -273,9 +273,9 @@
       .col-lg-8.order-2.order-lg-1
         p.mb-0(data-aos="fade-right") El producto turístico se materializa a través de la articulación de múltiples servicios ofrecidos por los prestadores de servicios turísticos, quienes conforman la industria turística y permiten satisfacer las diversas necesidades del viajero. Estos prestadores incluyen empresas de transporte, alojamiento, alimentación, recreación, organización de eventos y otras actividades complementarias que, operando de manera integrada, hacen posible el acceso, la permanencia y el disfrute del turista en un destino. En este sentido, el producto turístico no es un servicio aislado, sino el resultado de la interacción coordinada de diferentes actores que contribuyen a la experiencia global del usuario (Organización Mundial del Turismo (OMT), 2008).
 
-      .col-lg-4.col-md-12.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/tema1/img20.svg" data-aos="fade-left")
+          img(src="@/assets/curso/tema1/img20.png" data-aos="fade-left")
         
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-4.mb-lg-0

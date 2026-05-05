@@ -23,8 +23,8 @@
       h2 4.1 Funciones del área de reservas
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
-      .col-lg-3.col-md-12.mb-4.mb-lg-0
-        img(src="@/assets/curso/tema4/img03.svg").mx-auto
+      .col-lg-3.col-md-8.mb-4.mb-lg-0
+        img(src="@/assets/curso/tema4/img03.png").mx-auto
       .col-lg-9
         p.mb-3 El personal del área de reservas desempeña un papel fundamental en la comercialización de los servicios del hotel, ya que no solo registra solicitudes, sino que también promueve activamente la venta de habitaciones. Para ello, debe contar con conocimientos técnicos sobre el proceso de reservas, tarifas, disponibilidad y características del servicio, así como habilidades comunicativas que le permitan interactuar de manera efectiva con los clientes.
         p.mb-0 Entre las funciones principales del área de reservas se destacan las siguientes:

@@ -15,10 +15,10 @@
         p.banner-text Las tarifas hoteleras constituyen un elemento fundamental en la gestión de reservas, ya que determinan el valor económico de los servicios ofrecidos por el establecimiento y afectan directamente la competitividad y rentabilidad del negocio. En la actualidad, el manejo de tarifas ha evolucionado significativamente debido a la aparición de múltiples canales de distribución y al uso de tecnologías especializadas, lo que ha dado lugar a modelos dinámicos de fijación de precios. Estos modelos permiten ajustar las tarifas en función de variables como la demanda, la ocupación, la temporada y el comportamiento del mercado (Organización Mundial del Turismo (OMT), 2008).
 
 
-    .row.justify-content-align-items-center.mb-5
-      .col-lg-auto.d-none.d-lg-flex
-        img(src="@/assets/curso/tema5/img02.svg").mx-auto
-      .col-lg
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-2.col-md-8.mb-4.mb-lg-0
+        img(src="@/assets/curso/tema5/img02.png").mx-auto
+      .col-lg-10
         p.mb-0(data-aos="fade-right") En este contexto, surge el concepto de revenue management, una disciplina orientada a maximizar los ingresos del hotel mediante la gestión estratégica de precios, disponibilidad y segmentación de clientes. Gracias a esta práctica, las tarifas ya no se manejan de manera estática (temporada alta, media o baja), sino que se ajustan constantemente mediante el denominado dynamic pricing, lo que permite ofrecer el precio adecuado al cliente correcto en el momento oportuno. Este enfoque exige un conocimiento profundo del mercado, el uso de sistemas tecnológicos (PMS y channel managers) y una adecuada interpretación de los datos de ocupación y demanda (Kotler, Bowen & Makens, 2017).
         
 
