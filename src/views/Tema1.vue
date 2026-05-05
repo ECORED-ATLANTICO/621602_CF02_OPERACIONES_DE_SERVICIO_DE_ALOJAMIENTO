@@ -16,13 +16,13 @@
         p.mb-0 Los servicios turísticos comprenden el conjunto de bienes y servicios ofrecidos por los diferentes actores del sector turismo, orientados a satisfacer las necesidades de las personas durante sus desplazamientos fuera de su entorno habitual. Estos servicios incluyen actividades relacionadas con el transporte, el alojamiento, la alimentación, la recreación y la intermediación turística, permitiendo al viajero organizar y disfrutar su experiencia en un destino determinado. En este sentido, el servicio turístico no solo responde a una necesidad de movilidad, sino que se configura como un elemento clave en la generación de experiencias, al facilitar el desarrollo de actividades distintas a la rutina cotidiana del individuo (Organización Mundial del Turismo (OMT), 2008).
     
 
-    .row.align-items-center.mb-5(data-aos="fade-right")
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-auto.d-none.d-lg-flex
         img(src="@/assets/curso/tema1/img02.svg").mx-auto
       .col-lg
         .bg-fondo-3.px-lg-5.py-lg-4.px-4.py-3.br-15
-          .col-12.col-md-11.mx-auto
-            p.mb-0 Desde una perspectiva sistémica, el turismo se fundamenta en la interacción entre el sujeto (turista) y el objeto (destino, prestadores y organización del servicio), estableciendo una relación dinámica en la que los servicios turísticos actúan como mediadores entre la oferta y la demanda. Para el turista, estos servicios representan el conjunto de facilidades que le permiten acceder, permanecer y disfrutar de un destino, mientras que para los prestadores constituyen el núcleo de su actividad económica, orientada a satisfacer expectativas específicas del cliente (Cabarcos Novas, 2006). Esta relación evidencia que el servicio turístico no es un elemento aislado, sino parte de un sistema articulado que integra recursos, infraestructura y actores.
+          .col-12.col-md-12.mx-auto
+            p.mb-0.ms-0.ms-xl-5 Desde una perspectiva sistémica, el turismo se fundamenta en la interacción entre el sujeto (turista) y el objeto (destino, prestadores y organización del servicio), estableciendo una relación dinámica en la que los servicios turísticos actúan como mediadores entre la oferta y la demanda. Para el turista, estos servicios representan el conjunto de facilidades que le permiten acceder, permanecer y disfrutar de un destino, mientras que para los prestadores constituyen el núcleo de su actividad económica, orientada a satisfacer expectativas específicas del cliente (Cabarcos Novas, 2006). Esta relación evidencia que el servicio turístico no es un elemento aislado, sino parte de un sistema articulado que integra recursos, infraestructura y actores.
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-9.mb-4.mb-lg-0
@@ -282,8 +282,8 @@
         img(src="@/assets/curso/tema1/img21.png").mx-auto
       .col-lg-9
         .bg-fondo-5.px-lg-5.py-lg-4.px-4.py-3.br-15
-          .col-12.col-md-11(style="place-self: flex-end;")
-            p.mb-0 En el contexto colombiano, los tipos de producto turístico se relacionan directamente con los prestadores de servicios turísticos definidos por la normatividad vigente. Según la Ley 300 de 1996, se consideran prestadores de servicios turísticos todas aquellas personas naturales o jurídicas que de manera habitual proporcionan, intermedian o contratan servicios turísticos, siempre que se encuentren inscritas en el Registro Nacional de Turismo (RNT). Esta clasificación incluye establecimientos de alojamiento, agencias de viajes, operadores turísticos, empresas de transporte turístico, guías de turismo, entre otros, los cuales estructuran la oferta turística del país y permiten la comercialización de productos turísticos organizados y especializados (Fondo Nacional de Turismo (FONTUR), 2021).
+          .col-12.col-md-12
+            p.mb-0.ms-0.ms-xl-5 En el contexto colombiano, los tipos de producto turístico se relacionan directamente con los prestadores de servicios turísticos definidos por la normatividad vigente. Según la Ley 300 de 1996, se consideran prestadores de servicios turísticos todas aquellas personas naturales o jurídicas que de manera habitual proporcionan, intermedian o contratan servicios turísticos, siempre que se encuentren inscritas en el Registro Nacional de Turismo (RNT). Esta clasificación incluye establecimientos de alojamiento, agencias de viajes, operadores turísticos, empresas de transporte turístico, guías de turismo, entre otros, los cuales estructuran la oferta turística del país y permiten la comercialización de productos turísticos organizados y especializados (Fondo Nacional de Turismo (FONTUR), 2021).
 
 
     .row.align-items-center.mb-5(data-aos="fade-right")

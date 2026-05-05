@@ -10,18 +10,18 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
         .bg-fondo-8.px-lg-5.py-lg-4.px-4.py-3.br-15
-          .col-12.col-md-11(style="place-self: flex-end;")
-            .row.align-items-center
+          .col-12.col-md-12
+            .row.align-items-center.justify-content-center.ms-0.ms-xl-5
               .col-lg
                 p.mb-0 La gestión de reservas constituye uno de los procesos más importantes dentro de la operación hotelera, ya que está directamente relacionada con la principal fuente de ingresos del establecimiento: la venta de habitaciones. En este sentido, la reserva no solo representa la garantía de ocupación futura, sino también un elemento clave en la planificación operativa, comercial y financiera del hotel. La correcta administración de este proceso permite optimizar la ocupación, mejorar la experiencia del cliente y asegurar la sostenibilidad del negocio en un entorno altamente competitivo (Organización Mundial del Turismo (OMT), 2008).
               .col-lg-auto.d-none.d-lg-flex
-                img(src="@/assets/curso/tema3/img02.svg").mx-auto
+                img(src="@/assets/curso/tema3/img02.svg", style="width: 90px;")
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-9.mb-4.mb-lg-0
         p.mb-0 Una reserva se define como un acuerdo, verbal o escrito, entre el establecimiento de alojamiento y una persona natural o jurídica, mediante el cual el hotel se compromete a prestar el servicio de alojamiento y otros servicios complementarios en una fecha determinada y por un periodo específico. Por su parte, el cliente adquiere el compromiso de hacer uso del servicio en la fecha acordada y cumplir con las condiciones de pago establecidas, incluyendo posibles penalizaciones en caso de cancelación o no presentación. Este acuerdo formaliza la relación comercial entre ambas partes y permite garantizar la disponibilidad del servicio solicitado (Kotler, Bowen & Makens, 2017).
-      .col-lg-3.col-mb-8
+      .col-lg-3.col-md-10
         img(src="@/assets/curso/tema3/img03.png", alt="").img-fluid
 
 
@@ -69,7 +69,7 @@
       .col-lg-9
       
         .bg-fondo-10.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-4
-          .col-12.col-md-11(style="place-self: flex-start;")
+          .col-12.col-md-12
             p.mb-0 El código de reserva es un identificador único, generalmente alfanumérico, asignado por los sistemas de gestión hotelera (PMS) al momento de registrar una reserva. Este código permite identificar de manera precisa cada operación, incluyendo información relevante como fechas de estancia, tipo de habitación, tarifa, forma de pago y datos del cliente. Su uso es fundamental para garantizar el control y seguimiento de las reservas dentro del sistema, evitando errores y facilitando la gestión operativa del establecimiento (Kasavana & Cahill, 2017).
             
         p.mb-3 Estos códigos se generan automáticamente al ingresar los datos del cliente en el sistema y procesar la reserva, y posteriormente son enviados al huésped, generalmente a través de correo electrónico, como confirmación del servicio contratado. Es importante destacar que cada prestador de servicios turísticos, como aerolíneas, agencias de viajes y hoteles, utiliza sus propios códigos de reserva, lo que permite la identificación individual de cada servicio dentro de la cadena turística. El correcto manejo de estos códigos es esencial para el control de la información y la atención eficiente al cliente.

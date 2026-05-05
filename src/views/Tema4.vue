@@ -13,7 +13,7 @@
       .col-lg-9
         p.mb-4 El área de reservas constituye uno de los departamentos estratégicos dentro de la operación hotelera, ya que en la mayoría de los casos representa el primer punto de contacto entre el cliente y el establecimiento. A través de este departamento se gestionan las solicitudes de alojamiento provenientes de diferentes segmentos de mercado, como agencias de viajes, empresas y clientes particulares. Este primer contacto es determinante, ya que influye en la percepción inicial del servicio y en la decisión de compra del cliente, lo que convierte al área de reservas en un componente clave dentro del proceso comercial del hotel (Kotler, Bowen & Makens, 2017).
         .bg-fondo-12.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
-          .col-12.col-md-11(style="place-self: flex-start;")
+          .col-12.col-md-12
             p.mb-0 Este departamento tiene como responsabilidad principal administrar de manera eficiente la disponibilidad de habitaciones, garantizando que estas se comercialicen de forma rentable y acorde con las políticas del establecimiento. Para ello, se apoya en diferentes canales de reserva, como atención telefónica, reservas directas, plataformas virtuales, reservas grupales y sistemas globales de distribución (GDS), lo que permite ampliar el alcance comercial del hotel y mejorar su posicionamiento en el mercado. La correcta gestión de estos canales facilita la optimización de la ocupación y contribuye a la sostenibilidad financiera del negocio.
 
 
@@ -76,7 +76,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema4/img06.png", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.bg-color-23
             h5.mb-2.text-center Presentación personal
             .p-2
               p.mb-0 El colaborador debe mantener una excelente presentación personal, acorde con las normas de etiqueta y protocolo del establecimiento. Esto incluye el adecuado aseo personal, el uso correcto del uniforme y una postura corporal apropiada, proyectando una imagen profesional que genere confianza en el cliente.
@@ -106,7 +106,7 @@
           .crd_hover_txt--img
             figure
               img(src="@/assets/curso/tema4/img09.png", alt="alt")
-          .crd_hover_txt--body
+          .crd_hover_txt--body.bg-color-23
             h5.mb-2.text-center Comunicación no verbal
             .p-2
               p.mb-0 La comunicación no verbal complementa la interacción con el cliente y juega un papel clave en la percepción del servicio. Aspectos como la expresión facial, el contacto visual, los gestos corporales y el manejo adecuado de la distancia (proxémica) deben ser coherentes con el mensaje verbal, transmitiendo seguridad, interés y profesionalismo durante la atención.

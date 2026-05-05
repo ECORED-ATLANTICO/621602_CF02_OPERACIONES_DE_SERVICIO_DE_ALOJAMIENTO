@@ -26,7 +26,7 @@
           .col-lg-auto.d-none.d-lg-flex
             img(src="@/assets/curso/tema2/img03.svg")
         .bg-fondo-7.px-lg-5.py-lg-4.px-4.py-3.br-15
-          .col-12.col-md-11(style="place-self: flex-start;")
+          .col-12.col-md-12
             p.mb-0 Por otra parte, el portafolio de servicios funciona como una carta de presentación institucional, que puede ser elaborada en formato físico o digital, y que incluye información relevante sobre la empresa. Entre sus componentes se encuentran datos como el nombre de la organización, trayectoria, misión, visión, objetivos, aliados estratégicos, clientes, proveedores y canales de contacto. Esta estructura permite generar confianza en el cliente, fortalecer la imagen corporativa y consolidar la identidad del establecimiento dentro del sector turístico, contribuyendo a una comunicación efectiva y a una mejor comercialización de los servicios (Carvajal, 2016).
  
     .row.justify-content-center.mb-0
@@ -62,12 +62,12 @@
         p.mb-4 Este proceso implica la identificación detallada de los servicios ofrecidos, seguido de un análisis que permita determinar su función, nivel de aporte al negocio y relación con las necesidades del cliente. A partir de este análisis, los servicios son clasificados en categorías (principales, complementarios o de valor agregado), lo que facilita su organización y comercialización. Esta fase es fundamental, ya que permite ajustar el portafolio de servicios de acuerdo con la demanda del mercado y optimizar la toma de decisiones en áreas como ventas y reservas (Castro, 2018).
       
         .bg-fondo-8.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-4
-          .col-12.col-md-11(style="place-self: flex-end;")
-            .row.align-items-center
-              .col-lg
+          .col-12.col-md-12.ms-0.ms-xl-5
+            .row.align-items-center.justify-content-center
+              .col-lg-10
                 p.mb-0 Finalmente, la elaboración del portafolio de servicios debe contemplar la inclusión de un número representativo de servicios debidamente identificados, priorizados y categorizados, incorporando información detallada sobre cada uno. Esto incluye aspectos como descripción del servicio, beneficios, condiciones de prestación y su relación con otros servicios del establecimiento. Una estructura clara del portafolio permite mejorar la comunicación con el cliente, facilitar los procesos de comercialización y fortalecer la gestión operativa del establecimiento de alojamiento.
-              .col-lg-auto.d-none.d-lg-flex
-                img(src="@/assets/curso/tema2/img08.svg").mx-auto
+              .col-lg-2.d-none.d-lg-flex
+                img(src="@/assets/curso/tema2/img08.svg", style="width: 90px;")
 
         p.mb-0 En la tabla a continuación, se presenta la estructura del portafolio de servicios con ejemplos prácticos aplicados: 
 

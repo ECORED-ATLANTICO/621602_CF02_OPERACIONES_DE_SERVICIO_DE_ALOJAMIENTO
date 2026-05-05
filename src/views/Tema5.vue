@@ -118,12 +118,12 @@
         img(src="@/assets/curso/tema5/img06.png").mx-auto
       .col-lg-9
         .bg-fondo-11.px-lg-5.py-lg-4.px-4.py-3.br-15.mb-0
-          .col-12.col-md-11(style="place-self: flex-end;")
-            .row.align-items-center
+          .col-12.col-md-12
+            .row.align-items-center.ms-0.ms-xl-5
               .col-lg
                 p.mb-0 El manejo de tarifas en el sector hotelero constituye un proceso estratégico que va más allá de la simple asignación de precios, ya que implica la comprensión del comportamiento de la demanda, la segmentación del mercado y el uso eficiente de herramientas tecnológicas para la toma de decisiones. La implementación de modelos dinámicos, apoyados en el revenue management, permite a los establecimientos ajustar sus tarifas en tiempo real, optimizando la ocupación y maximizando los ingresos, sin perder de vista la percepción de valor por parte del cliente (Organización Mundial del Turismo [OMT], 2008; Kotler, Bowen & Makens, 2017).
               .col-lg-auto.d-none.d-lg-flex
-                img(src="@/assets/curso/tema5/img08.svg").mx-auto
+                img(src="@/assets/curso/tema5/img08.svg", style="width: 90px;").mx-auto
 
     .row.align-items-center.justify-content-center.mb-3(data-aos="fade-right")
       .col-lg-12
