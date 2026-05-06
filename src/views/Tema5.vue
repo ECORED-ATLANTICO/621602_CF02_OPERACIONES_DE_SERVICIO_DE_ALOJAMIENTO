@@ -19,7 +19,7 @@
       .col-lg-2.col-md-8.mb-4.mb-lg-0
         img(src="@/assets/curso/tema5/img02.png").mx-auto
       .col-lg-10
-        p.mb-0(data-aos="fade-right") En este contexto, surge el concepto de revenue management, una disciplina orientada a maximizar los ingresos del hotel mediante la gestión estratégica de precios, disponibilidad y segmentación de clientes. Gracias a esta práctica, las tarifas ya no se manejan de manera estática (temporada alta, media o baja), sino que se ajustan constantemente mediante el denominado dynamic pricing, lo que permite ofrecer el precio adecuado al cliente correcto en el momento oportuno. Este enfoque exige un conocimiento profundo del mercado, el uso de sistemas tecnológicos (PMS y channel managers) y una adecuada interpretación de los datos de ocupación y demanda (Kotler, Bowen & Makens, 2017).
+        p.mb-0(data-aos="fade-right") En este contexto, surge el concepto de <i>revenue management</i>, una disciplina orientada a maximizar los ingresos del hotel mediante la gestión estratégica de precios, disponibilidad y segmentación de clientes. Gracias a esta práctica, las tarifas ya no se manejan de manera estática (temporada alta, media o baja), sino que se ajustan constantemente mediante el denominado <i>dynamic pricing</i>, lo que permite ofrecer el precio adecuado al cliente correcto en el momento oportuno. Este enfoque exige un conocimiento profundo del mercado, el uso de sistemas tecnológicos (PMS y <i>channel managers</i>) y una adecuada interpretación de los datos de ocupación y demanda (Kotler, Bowen & Makens, 2017).
         
 
     .row.justify-content-center.align-items-center.mb-5
@@ -57,7 +57,7 @@
                 th Aplicación en reservas
             tbody
               tr
-                td Tarifa rack.
+                td Tarifa <i>rack</i>.
                 td Tarifa oficial sin descuentos.
                 td Base de referencia para otras tarifas.
               tr
@@ -73,7 +73,7 @@
                 td Tarifa con descuento por convenio.
                 td Empresas, agencias, clientes frecuentes.
               tr
-                td Tarifa complimentary.
+                td Tarifa <i>complimentary</i>.
                 td Tarifa sin costo.
                 td Cortesías, relaciones estratégicas.
               tr
@@ -81,7 +81,7 @@
                 td Tarifas con descuentos y condiciones.
                 td Estrategias comerciales.
               tr
-                td Tarifa BAR (best available rate).
+                td Tarifa BAR (<i>best available rate</i>).
                 td Mejor tarifa disponible en todos los canales
                 td Transparencia y venta directa.
               tr
@@ -121,7 +121,7 @@
           .col-12.col-md-12
             .row.align-items-center.ms-0.ms-xl-5
               .col-lg
-                p.mb-0 El manejo de tarifas en el sector hotelero constituye un proceso estratégico que va más allá de la simple asignación de precios, ya que implica la comprensión del comportamiento de la demanda, la segmentación del mercado y el uso eficiente de herramientas tecnológicas para la toma de decisiones. La implementación de modelos dinámicos, apoyados en el revenue management, permite a los establecimientos ajustar sus tarifas en tiempo real, optimizando la ocupación y maximizando los ingresos, sin perder de vista la percepción de valor por parte del cliente (Organización Mundial del Turismo [OMT], 2008; Kotler, Bowen & Makens, 2017).
+                p.mb-0 El manejo de tarifas en el sector hotelero constituye un proceso estratégico que va más allá de la simple asignación de precios, ya que implica la comprensión del comportamiento de la demanda, la segmentación del mercado y el uso eficiente de herramientas tecnológicas para la toma de decisiones. La implementación de modelos dinámicos, apoyados en el <i>revenue management</i>, permite a los establecimientos ajustar sus tarifas en tiempo real, optimizando la ocupación y maximizando los ingresos, sin perder de vista la percepción de valor por parte del cliente (Organización Mundial del Turismo [OMT], 2008; Kotler, Bowen & Makens, 2017).
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema5/img08.svg", style="width: 90px;").mx-auto
 

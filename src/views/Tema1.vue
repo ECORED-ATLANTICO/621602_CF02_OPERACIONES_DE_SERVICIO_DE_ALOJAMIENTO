@@ -142,7 +142,7 @@
               tr
                 td Oferta turística.
                 td Servicios disponibles para el turista.
-                td Alojamiento, tours, gastronomía.
+                td Alojamiento, <i>tours</i>, gastronomía.
                 td Planes de alojamiento.
               tr
                 td Demanda turística.
@@ -326,7 +326,7 @@
               tr
                 td Recreación.
                 td Actividades de ocio y entretenimiento.
-                td Piscinas, spa, tours, actividades recreativas.
+                td Piscinas, <i>spa</i>, <i>tours</i>, actividades recreativas.
               tr
                 td Eventos.
                 td Servicios asociados a reuniones o actividades programadas.

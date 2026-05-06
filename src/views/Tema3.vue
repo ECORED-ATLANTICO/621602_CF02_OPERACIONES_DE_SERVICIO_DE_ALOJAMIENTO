@@ -34,7 +34,7 @@
       .col-lg-3.mb-4.mb-lg-0.col-md-8
         img(src="@/assets/curso/tema3/img04.svg", alt="").img-fluid
       .col-lg-9
-        p.mb-4 El objetivo principal de la gestión de reservas es mantener un control permanente y actualizado de la ocupación del establecimiento, considerando variables como entradas, salidas, cancelaciones, modificaciones y clientes no show. Este control permite anticipar la disponibilidad de habitaciones y tomar decisiones oportunas que contribuyan a maximizar la ocupación y los ingresos del hotel. Asimismo, facilita la organización interna del establecimiento, permitiendo coordinar áreas como recepción, housekeeping y alimentos y bebidas.
+        p.mb-4 El objetivo principal de la gestión de reservas es mantener un control permanente y actualizado de la ocupación del establecimiento, considerando variables como entradas, salidas, cancelaciones, modificaciones y clientes <i>no show</i>. Este control permite anticipar la disponibilidad de habitaciones y tomar decisiones oportunas que contribuyan a maximizar la ocupación y los ingresos del hotel. Asimismo, facilita la organización interna del establecimiento, permitiendo coordinar áreas como recepción, <i>housekeeping</i> y alimentos y bebidas.
         .row.align-items-center
           .col-lg-auto.d-none.d-lg-flex
             img(src="@/assets/curso/tema3/img05.svg").mx-auto
@@ -47,7 +47,7 @@
       .container
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
           .col-lg-9.order-2.order-lg-1
-            p.mb-4 Un hotel ubicado en una zona turística registra, a través de su sistema de reservas, que durante los meses de junio y diciembre presenta una alta ocupación debido a temporadas vacacionales. En contraste, durante los meses de febrero y septiembre la demanda disminuye significativamente. A partir de este análisis, el área de reservas implementa estrategias como descuentos en temporada baja, paquetes promocionales (alojamiento + desayuno + actividades) y alianzas con agencias de viajes para atraer clientes. Al mismo tiempo, mantiene un control riguroso de las reservas confirmadas, cancelaciones y no show, evitando pérdidas económicas por habitaciones vacías o sobreocupación.
+            p.mb-4 Un hotel ubicado en una zona turística registra, a través de su sistema de reservas, que durante los meses de junio y diciembre presenta una alta ocupación debido a temporadas vacacionales. En contraste, durante los meses de febrero y septiembre la demanda disminuye significativamente. A partir de este análisis, el área de reservas implementa estrategias como descuentos en temporada baja, paquetes promocionales (alojamiento + desayuno + actividades) y alianzas con agencias de viajes para atraer clientes. Al mismo tiempo, mantiene un control riguroso de las reservas confirmadas, cancelaciones y <i>no show</i>, evitando pérdidas económicas por habitaciones vacías o sobreocupación.
             .row.align-items-center
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema3/img07.svg").mx-auto
@@ -108,18 +108,18 @@
                 td Reserva anulada por el cliente o el hotel.
                 td Cliente cancela antes de la fecha.
               tr
-                td NOS (No Show)
+                td NOS (<i>No Show</i>)
                 td No se presentó.
                 td Cliente no llega sin cancelar.
                 td Habitación queda vacía y puede generar penalización.
               tr
                 td IN
-                td Check-in.
+                td <i>Check-in</i>.
                 td Cliente ha ingresado al hotel.
                 td Huésped llega y ocupa la habitación.
               tr
                 td OUT
-                td Check-out.
+                td <i>Check-out</i>.
                 td Cliente ha salido del hotel.
                 td Finaliza la estancia.
               tr
@@ -134,9 +134,9 @@
                 td Evento empresarial con varias habitaciones.
               tr
                 td OTA
-                td Online Travel Agency.
-                td Reserva proveniente de plataforma digital.
-                td Reserva hecha por Booking o Expedia.
+                 td <i>Online Travel Agency</i>.
+                 td Reserva proveniente de plataforma digital.
+                 td Reserva hecha por <i>Booking</i> o <i>Expedia</i>.
               tr
                 td CORP
                 td Corporativa.
@@ -144,7 +144,7 @@
                 td Empresa reserva para sus empleados.
               tr
                 td BKD
-                td Booking.
+                td <i>Booking</i>.
                 td Reserva registrada en el sistema.
                 td Se genera al ingresar datos del cliente.
               tr

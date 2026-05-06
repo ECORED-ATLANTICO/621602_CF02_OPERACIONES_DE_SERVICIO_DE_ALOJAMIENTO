@@ -45,13 +45,13 @@
             p.mb-0 Incluye la recepción, análisis y confirmación de solicitudes de reserva, tanto individuales como grupales, así como la promoción activa de los servicios del hotel para maximizar la ocupación.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Manejo de documentación")
-            p.mb-0 Comprende la elaboración y actualización de herramientas como el planning de reservas, listas de llegada, registros de clientes y archivo de información, garantizando la trazabilidad y control de los datos.
+            p.mb-0 Comprende la elaboración y actualización de herramientas como el <i>planning</i> de reservas, listas de llegada, registros de clientes y archivo de información, garantizando la trazabilidad y control de los datos.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Coordinación interdepartamental")
-            p.mb-0 El área de reservas debe mantener comunicación constante con otros departamentos, como recepción, housekeeping y alimentos y bebidas, para asegurar la correcta prestación del servicio y anticipar necesidades operativas.
+            p.mb-0 El área de reservas debe mantener comunicación constante con otros departamentos, como recepción, <i>housekeeping</i> y alimentos y bebidas, para asegurar la correcta prestación del servicio y anticipar necesidades operativas.
 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Gestión de grupos y rooming list")
-            p.mb-0 Incluye la recepción y verificación de listas de huéspedes enviadas por agencias de viajes (rooming list), asegurando que la información sea completa y coherente con la reserva realizada.
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Gestión de grupos y <i>rooming list</i>")
+            p.mb-0 Incluye la recepción y verificación de listas de huéspedes enviadas por agencias de viajes (<i>rooming list</i>), asegurando que la información sea completa y coherente con la reserva realizada.
 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Uso de tecnología")
             p.mb-0 Actualmente, todas estas funciones se apoyan en sistemas de gestión hotelera (PMS), los cuales permiten registrar, controlar y analizar la información en tiempo real. Estos sistemas, a su vez, se integran con plataformas de distribución y venta, facilitando la gestión de reservas y mejorando la eficiencia operativa del hotel.
@@ -77,7 +77,7 @@
             figure
               img(src="@/assets/curso/tema4/img06.png", alt="alt")
           .crd_hover_txt--body.bg-color-23
-            h5.mb-2.text-center Presentación personal
+            h5.mb-2 Presentación personal
             .p-2
               p.mb-0 El colaborador debe mantener una excelente presentación personal, acorde con las normas de etiqueta y protocolo del establecimiento. Esto incluye el adecuado aseo personal, el uso correcto del uniforme y una postura corporal apropiada, proyectando una imagen profesional que genere confianza en el cliente.
             
@@ -87,7 +87,7 @@
             figure
               img(src="@/assets/curso/tema4/img07.png", alt="alt")
           .crd_hover_txt--body.bg-color-22
-            h5.mb-2.text-center Comunicación verbal
+            h5.mb-2 Comunicación verbal
             .p-2
               p.mb-0 La comunicación verbal debe ser clara, fluida y adecuada al contexto del cliente. Es fundamental utilizar un vocabulario sencillo y comprensible, evitando tecnicismos innecesarios o respuestas cortas que dificulten la interacción. Además, el tono de voz debe ser amable y tranquilo, facilitando una comunicación efectiva que permita orientar al cliente en el proceso de reserva.
             
@@ -97,7 +97,7 @@
             figure
               img(src="@/assets/curso/tema4/img08.png", alt="alt")
           .crd_hover_txt--body.bg-color-22
-            h5.mb-2.text-center Amabilidad y actitud de servicio
+            h5.mb-2 Amabilidad y actitud de servicio
             .p-2
               p.mb-0 La amabilidad y la cortesía son cualidades esenciales en la atención al cliente. El personal de reservas debe mostrar respeto, empatía y disposición para atender las necesidades del cliente, manteniendo una actitud positiva y receptiva que favorezca la fidelización y la percepción de calidad en el servicio.
             
@@ -107,7 +107,7 @@
             figure
               img(src="@/assets/curso/tema4/img09.png", alt="alt")
           .crd_hover_txt--body.bg-color-23
-            h5.mb-2.text-center Comunicación no verbal
+            h5.mb-2 Comunicación no verbal
             .p-2
               p.mb-0 La comunicación no verbal complementa la interacción con el cliente y juega un papel clave en la percepción del servicio. Aspectos como la expresión facial, el contacto visual, los gestos corporales y el manejo adecuado de la distancia (proxémica) deben ser coherentes con el mensaje verbal, transmitiendo seguridad, interés y profesionalismo durante la atención.
             
