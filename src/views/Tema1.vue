@@ -54,31 +54,31 @@
         SlyderA(tipo="b").bg-color-white.p-0.p-lg-4.tarjeta
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Estructura turística:</b> también conocida como planta turística, está conformada por los atractivos, instalaciones y equipamientos que permiten la permanencia del turista en el destino. Incluye elementos como establecimientos de alojamiento, servicios de alimentación, espacios recreativos y otros servicios complementarios que garantizan comodidad y satisfacción durante la estancia. Este subsistema es fundamental, ya que constituye la base operativa del turismo, al facilitar el consumo de servicios y la vivencia del destino por parte del visitante (Boullón, 2006).
+              p.mb-0 <b>Estructura turística:</b> también conocida como planta turística, está conformada por los atractivos, instalaciones y equipamientos que permiten la permanencia del turista en el destino. Incluye elementos como establecimientos de alojamiento, servicios de alimentación, espacios recreativos y otros servicios complementarios que garantizan comodidad y satisfacción durante la estancia. Este subsistema es fundamental, ya que constituye la base operativa del turismo, al facilitar el consumo de servicios y la vivencia del destino por parte del visitante (Boullón, 2006).
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img08.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-4.p-lg-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Infraestructura turística:</b> comprende el conjunto de bienes y servicios básicos que facilitan el acceso, la movilidad y la permanencia en el destino turístico. Dentro de esta se incluyen las vías de comunicación, los sistemas de transporte, los servicios públicos como acueducto, energía y saneamiento, así como los sistemas de telecomunicaciones. Estos elementos no son exclusivos del turismo, pero resultan indispensables para su desarrollo, ya que permiten que los servicios turísticos se presten de manera eficiente y segura (Organización Mundial del Turismo (OMT), 2008).
+              p.mb-0 <b>Infraestructura turística:</b> comprende el conjunto de bienes y servicios básicos que facilitan el acceso, la movilidad y la permanencia en el destino turístico. Dentro de esta se incluyen las vías de comunicación, los sistemas de transporte, los servicios públicos como acueducto, energía y saneamiento, así como los sistemas de telecomunicaciones. Estos elementos no son exclusivos del turismo, pero resultan indispensables para su desarrollo, ya que permiten que los servicios turísticos se presten de manera eficiente y segura (Organización Mundial del Turismo (OMT), 2008).
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img09.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Superestructura turística:</b> está conformada por las entidades públicas y privadas encargadas de la regulación, promoción y control del sector turístico. En el contexto colombiano, esta incluye organismos como el Ministerio de Comercio, Industria y Turismo, PROCOLOMBIA y el Fondo Nacional de Turismo (FONTUR), entre otros. Su función principal es establecer políticas, normativas y estrategias que orienten el desarrollo del turismo, garantizando su sostenibilidad y competitividad (Fondo Nacional de Turismo, 2021).
+              p.mb-0 <b>Superestructura turística:</b> está conformada por las entidades públicas y privadas encargadas de la regulación, promoción y control del sector turístico. En el contexto colombiano, esta incluye organismos como el Ministerio de Comercio, Industria y Turismo, PROCOLOMBIA y el Fondo Nacional de Turismo (FONTUR), entre otros. Su función principal es establecer políticas, normativas y estrategias que orienten el desarrollo del turismo, garantizando su sostenibilidad y competitividad (Fondo Nacional de Turismo, 2021).
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img10.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Oferta turística:</b> conjunto de productos y servicios asociados a un determinado espacio geográfico y sociocultural, que permite facilitar y propiciar el aprovechamiento de los atractivos turísticos de ese lugar y cuyos oferentes pueden vender en el mercado a un precio establecido y en un periodo de tiempo determinado, para ser usado o consumido por los turistas.
+              p.mb-0 <b>Oferta turística:</b> conjunto de productos y servicios asociados a un determinado espacio geográfico y sociocultural, que permite facilitar y propiciar el aprovechamiento de los atractivos turísticos de ese lugar y cuyos oferentes pueden vender en el mercado a un precio establecido y en un periodo de tiempo determinado, para ser usado o consumido por los turistas.
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img11.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-4.p-lg-3
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0(data-aos="fade-right") <b>Demanda turística:</b> se define como el conjunto de turistas que, de forma individual o colectiva, están motivados por una serie de productos o servicios turísticos con el objetivo de cubrir sus necesidades; opera en el contexto de un mercado en el que intervienen diversos prestadores de servicios turísticos que ponen a disposición del turista los servicios y productos que requieren para satisfacer determinadas necesidades (viajes, ocio, vacaciones, esparcimiento, tiempo libre).
+              p.mb-0 <b>Demanda turística:</b> se define como el conjunto de turistas que, de forma individual o colectiva, están motivados por una serie de productos o servicios turísticos con el objetivo de cubrir sus necesidades; opera en el contexto de un mercado en el que intervienen diversos prestadores de servicios turísticos que ponen a disposición del turista los servicios y productos que requieren para satisfacer determinadas necesidades (viajes, ocio, vacaciones, esparcimiento, tiempo libre).
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img12.png", alt="").mx-auto
