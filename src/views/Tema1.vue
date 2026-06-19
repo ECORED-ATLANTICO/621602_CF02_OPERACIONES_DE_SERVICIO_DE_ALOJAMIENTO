@@ -104,7 +104,7 @@
         img(src="@/assets/curso/tema1/img14.png", alt="").mx-auto
       .col-lg-10
         p.mb-3 El sistema turístico permite comprender el turismo como una actividad integrada en la que cada uno de sus componentes cumple una función específica y complementaria. La interacción entre la estructura, la infraestructura, la superestructura, la oferta y la demanda garantiza el funcionamiento eficiente del sector, facilitando la prestación de servicios y la satisfacción de las necesidades del turista. En este sentido, analizar el sistema turístico no solo aporta una visión global del sector, sino que también permite identificar cómo se articulan los diferentes elementos en la operación de los servicios de alojamiento, especialmente en procesos clave como la gestión de reservas y la atención al cliente. 
-        p.mb-0 La siguiente tabla resume los componentes de sistema turístico y describe algunos ejemplos aplicados: 
+        p.mb-0 La siguiente tabla resume los componentes del sistema turístico y describe algunos ejemplos aplicados: 
 
 
 
