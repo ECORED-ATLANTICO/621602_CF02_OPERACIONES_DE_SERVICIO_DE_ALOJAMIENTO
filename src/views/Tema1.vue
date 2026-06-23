@@ -346,7 +346,7 @@
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 Lo invitamos a ingresar al siguiente enlace web, donde podrá consultar la Ley 300 de 1996 o Ley General de Turismo, que legisla este tipo de actividades en Colombia: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(href="https://www.acnur.org/fileadmin/Documentos/BDL/2008/6488.pdf" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('downloads/LEY_0300_1996.pdf')" target="_blank")
                   span Ver PDF
                   i.fas.fa-file-pdf
 
