@@ -94,62 +94,62 @@
             tbody
               tr
                 td RES
-                td Reserva.
+                td Reserva
                 td Indica que existe una reserva registrada en el sistema.
                 td Cliente con habitación apartada para una fecha futura.
               tr
                 td CONF
-                td Confirmada.
+                td Confirmada
                 td Reserva confirmada por el cliente.
                 td El cliente recibió correo de confirmación.
               tr
                 td CAN
-                td Cancelada.
+                td Cancelada
                 td Reserva anulada por el cliente o el hotel.
                 td Cliente cancela antes de la fecha.
               tr
                 td NOS (<i>No Show</i>)
-                td No se presentó.
+                td No se presentó
                 td Cliente no llega sin cancelar.
                 td Habitación queda vacía y puede generar penalización.
               tr
                 td IN
-                td <i>Check-in</i>.
+                td <i>Check-in</i>
                 td Cliente ha ingresado al hotel.
                 td Huésped llega y ocupa la habitación.
               tr
                 td OUT
-                td <i>Check-out</i>.
+                td <i>Check-out</i>
                 td Cliente ha salido del hotel.
                 td Finaliza la estancia.
               tr
                 td HOLD
-                td En espera.
+                td En espera
                 td Reserva pendiente de confirmación.
                 td Cliente solicita habitación, pero no paga aún.
               tr
                 td GRP
-                td Grupo.
+                td Grupo
                 td Reserva de varias habitaciones.
                 td Evento empresarial con varias habitaciones.
               tr
                 td OTA
-                 td <i>Online Travel Agency</i>.
-                 td Reserva proveniente de plataforma digital.
-                 td Reserva hecha por <i>Booking</i> o <i>Expedia</i>.
+                td <i>Online Travel Agency</i>
+                td Reserva proveniente de plataforma digital.
+                td Reserva hecha por <i>Booking</i> o <i>Expedia</i>.
               tr
                 td CORP
-                td Corporativa.
+                td Corporativa
                 td Reserva de empresa o convenio.
                 td Empresa reserva para sus empleados.
               tr
                 td BKD
-                td <i>Booking</i>.
+                td <i>Booking</i>
                 td Reserva registrada en el sistema.
                 td Se genera al ingresar datos del cliente.
               tr
                 td PMT
-                td Pago registrado.
+                td Pago registrado
                 td Indica que el servicio ha sido pagado.
                 td Cliente paga anticipadamente.
 

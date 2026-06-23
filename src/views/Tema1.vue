@@ -125,30 +125,30 @@
                 th Ejemplo en alojamiento
             tbody
               tr
-                td Estructura turística (planta turística).
+                td Estructura turística (planta turística)
                 td Conjunto de servicios y equipamientos que permiten la permanencia del turista.
-                td Hoteles, restaurantes, recreación.
-                td Hotel, restaurante del hotel, piscina.
+                td Hoteles, restaurantes, recreación
+                td Hotel, restaurante del hotel, piscina
               tr
-                td Infraestructura turística.
+                td Infraestructura turística
                 td Bienes y servicios básicos que facilitan acceso y movilidad.
-                td Vías, transporte, servicios públicos.
-                td Carreteras, aeropuerto, energía del hotel.
+                td Vías, transporte, servicios públicos
+                td Carreteras, aeropuerto, energía del hotel
               tr
-                td Superestructura turística.
+                td Superestructura turística
                 td Entidades que regulan y promueven el turismo.
-                td MinCIT, FONTUR, PROCOLOMBIA.
-                td Registro Nacional de Turismo.
+                td MinCIT, FONTUR, PROCOLOMBIA
+                td Registro Nacional de Turismo
               tr
-                td Oferta turística.
+                td Oferta turística
                 td Servicios disponibles para el turista.
-                td Alojamiento, <i>tours</i>, gastronomía.
-                td Planes de alojamiento.
+                td Alojamiento, <i>tours</i>, gastronomía
+                td Planes de alojamiento
               tr
-                td Demanda turística.
+                td Demanda turística
                 td Personas que consumen servicios turísticos.
-                td Turistas de ocio, negocios.
-                td Huéspedes del hotel.
+                td Turistas de ocio, negocios
+                td Huéspedes del hotel
                 
                 
                 
@@ -224,43 +224,43 @@
                 th Ejemplo en hotelería
             tbody
               tr
-                td Intangibilidad.
+                td Intangibilidad
                 td El servicio no se puede ver ni tocar antes de consumirlo.
                 td No se puede “probar” una noche de hotel antes de reservar.
               tr
-                td Variabilidad.
+                td Variabilidad
                 td La calidad del servicio depende de quién lo presta y en qué condiciones.
                 td La atención cambia según el recepcionista.
               tr
-                td Caducidad.
+                td Caducidad
                 td El servicio no se puede almacenar.
                 td Una habitación vacía hoy no se puede vender mañana.
               tr
-                td Temporalidad.
+                td Temporalidad
                 td Se consume en un tiempo y lugar específico.
                 td La reserva es válida solo para fechas definidas.
               tr
-                td Inseparabilidad.
+                td Inseparabilidad
                 td Producción y consumo ocurren al mismo tiempo.
                 td El huésped recibe el servicio mientras está en el hotel.
               tr
-                td No devolución.
+                td No devolución
                 td El servicio no se puede devolver después de prestado.
                 td No se puede “devolver” una noche ya utilizada.
               tr
-                td Interdependencia.
+                td Interdependencia
                 td Depende de varios prestadores de servicios.
                 td Hotel + transporte + restaurante afectan la experiencia.
               tr
-                td Estacionalidad.
+                td Estacionalidad
                 td La demanda varía según épocas del año.
                 td Alta ocupación en vacaciones, baja en temporada baja.
               tr
-                td Intransferibilidad.
+                td Intransferibilidad
                 td No se puede ceder el servicio a otra persona.
                 td Una reserva no siempre puede cambiar de titular.
               tr
-                td Servucción.
+                td Servucción
                 td Proceso de creación del servicio.
                 td Interacción cliente – hotel – personal en la prestación.
 
@@ -316,25 +316,25 @@
                 th Ejemplo en el sector hotelero
             tbody
               tr
-                td Alojamiento.
+                td Alojamiento
                 td Servicios relacionados con la estancia del turista.
-                td Hoteles, hostales, apartahoteles.
+                td Hoteles, hostales, apartahoteles
               tr
-                td Transporte.
+                td Transporte
                 td Servicios que facilitan el desplazamiento del turista.
-                td Transporte terrestre, aéreo o turístico.
+                td Transporte terrestre, aéreo o turístico
               tr
-                td Recreación.
+                td Recreación
                 td Actividades de ocio y entretenimiento.
-                td Piscinas, <i>spa</i>, <i>tours</i>, actividades recreativas.
+                td Piscinas, <i>spa</i>, <i>tours</i>, actividades recreativas
               tr
-                td Eventos.
+                td Eventos
                 td Servicios asociados a reuniones o actividades programadas.
-                td Congresos, bodas, eventos empresariales.
+                td Congresos, bodas, eventos empresariales
               tr
-                td Turismo especializado.
+                td Turismo especializado
                 td Servicios diseñados para intereses específicos del cliente.
-                td Ecoturismo, turismo cultural, turismo de negocios.
+                td Ecoturismo, turismo cultural, turismo de negocios
 
     .row.justify-content-center.mb-0
       .col-12.col-lg-10.mb-0.col-md-12

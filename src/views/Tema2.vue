@@ -88,33 +88,33 @@
                 th Aplicación en hotelería
             tbody
               tr
-                td Identificación del servicio.
+                td Identificación del servicio
                 td Nombre del servicio ofrecido.
-                td Alojamiento estándar.
+                td Alojamiento estándar
               tr
-                td Descripción.
+                td Descripción
                 td Características del servicio.
-                td Habitación con cama doble, baño privado.
+                td Habitación con cama doble, baño privado
               tr
-                td Categoría.
+                td Categoría
                 td Tipo de servicio (principal, complementario, valor agregado).
-                td Principal.
+                td Principal
               tr
-                td Beneficios.
+                td Beneficios
                 td Valor que aporta al cliente.
-                td Descanso, comodidad.
+                td Descanso, comodidad
               tr
-                td Condiciones.
+                td Condiciones
                 td Reglas de uso del servicio.
-                td Horarios, políticas.
+                td Horarios, políticas
               tr
-                td Relación con otros servicios.
+                td Relación con otros servicios
                 td Servicios asociados.
-                td Desayuno incluido.
+                td Desayuno incluido
               tr
-                td Nivel de prioridad.
+                td Nivel de prioridad
                 td Importancia dentro del negocio.
-                td Alta.
+                td Alta
 
 
     .container

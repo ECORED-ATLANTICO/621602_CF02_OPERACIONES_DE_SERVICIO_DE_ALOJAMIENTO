@@ -57,45 +57,45 @@
                 th Aplicación en reservas
             tbody
               tr
-                td Tarifa <i>rack</i>.
+                td Tarifa <i>rack</i>
                 td Tarifa oficial sin descuentos.
-                td Base de referencia para otras tarifas.
+                td Base de referencia para otras tarifas
               tr
-                td Tarifa neta o de piso.
+                td Tarifa neta o de piso
                 td Tarifa para intermediarios (sin margen incluido).
-                td Uso en agencias y plataformas.
+                td Uso en agencias y plataformas
               tr
-                td Tarifa confirmada.
+                td Tarifa confirmada
                 td Precio acordado con el cliente al reservar.
-                td Garantiza condiciones al huésped.
+                td Garantiza condiciones al huésped
               tr
-                td Tarifa negociada.
+                td Tarifa negociada
                 td Tarifa con descuento por convenio.
-                td Empresas, agencias, clientes frecuentes.
+                td Empresas, agencias, clientes frecuentes
               tr
-                td Tarifa <i>complimentary</i>.
+                td Tarifa <i>complimentary</i>
                 td Tarifa sin costo.
-                td Cortesías, relaciones estratégicas.
+                td Cortesías, relaciones estratégicas
               tr
-                td Tarifas promocionales.
+                td Tarifas promocionales
                 td Tarifas con descuentos y condiciones.
-                td Estrategias comerciales.
+                td Estrategias comerciales
               tr
-                td Tarifa BAR (<i>best available rate</i>).
-                td Mejor tarifa disponible en todos los canales
-                td Transparencia y venta directa.
+                td Tarifa BAR (<i>best available rate</i>)
+                td Mejor tarifa disponible en todos los canales.
+                td Transparencia y venta directa
               tr
-                td Tarifa grupo o evento.
+                td Tarifa grupo o evento
                 td Tarifas para reservas grupales.
-                td Congresos, eventos, ferias.
+                td Congresos, eventos, ferias
               tr
-                td Tarifa larga estadía.
-                td Tarifas especiales por estancias prolongadas
-                td Huéspedes permanentes.
+                td Tarifa larga estadía
+                td Tarifas especiales por estancias prolongadas.
+                td Huéspedes permanentes
               tr
-                td Paquetes o planes.
+                td Paquetes o planes
                 td Combinación de servicios a precio atractivo.
-                td Planes turísticos integrados.
+                td Planes turísticos integrados
 
     .bg-full-width.bg-fondo-9.px-5.py-4.mb-5
       .container
