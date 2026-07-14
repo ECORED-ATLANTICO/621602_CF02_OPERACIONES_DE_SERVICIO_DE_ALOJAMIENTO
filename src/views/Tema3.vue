@@ -13,7 +13,7 @@
           .col-12.col-md-12
             .row.align-items-center.justify-content-center.ms-0.ms-xl-5
               .col-lg
-                p.mb-0 La gestión de reservas constituye uno de los procesos más importantes dentro de la operación hotelera, ya que está directamente relacionada con la principal fuente de ingresos del establecimiento: la venta de habitaciones. En este sentido, la reserva no solo representa la garantía de ocupación futura, sino también un elemento clave en la planificación operativa, comercial y financiera del hotel. La correcta administración de este proceso permite optimizar la ocupación, mejorar la experiencia del cliente y asegurar la sostenibilidad del negocio en un entorno altamente competitivo (Organización Mundial del Turismo (OMT), 2008).
+                p.mb-0 La gestión de reservas constituye uno de los procesos más importantes dentro de la operación hotelera, ya que está directamente relacionada con la principal fuente de ingresos del establecimiento: la venta de habitaciones. En este sentido, la reserva no solo representa la garantía de ocupación futura, sino también un elemento clave en la planificación operativa, comercial y financiera del hotel. La correcta administración de este proceso permite optimizar la ocupación, mejorar la experiencia del cliente y asegurar la sostenibilidad del negocio en un entorno altamente competitivo (Organización Mundial del Turismo [OMT], 2008).
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema3/img02.svg", style="width: 90px;")
 
@@ -41,13 +41,13 @@
           .col-lg
             p.mb-0 Adicionalmente, la gestión de reservas implica la implementación de estrategias comerciales orientadas a la venta de habitaciones, apoyadas en el análisis del comportamiento de la demanda a lo largo del tiempo. Herramientas como las gráficas de ocupación mensual permiten identificar temporadas altas y bajas, lo que facilita el diseño de promociones, tarifas especiales y paquetes turísticos. Este proceso requiere el uso de sistemas de gestión hotelera (PMS), así como el conocimiento de la oferta de servicios y la capacidad del agente de reservas para interactuar eficazmente con el cliente y concretar la venta (Kotler et al., 2017).
       
-    p.mb-4 A continuación, con un ejemplo práctico se evidencia la importancia de la gestión de reservas:
+    p.mb-4 A continuación, con un ejemplo práctico, se evidencia la importancia de la gestión de reservas:
 
     .bg-full-width.bg-fondo-9.px-5.py-4.mb-3
       .container
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
           .col-lg-9.order-2.order-lg-1
-            p.mb-4 Un hotel ubicado en una zona turística registra, a través de su sistema de reservas, que durante los meses de junio y diciembre presenta una alta ocupación debido a temporadas vacacionales. En contraste, durante los meses de febrero y septiembre la demanda disminuye significativamente. A partir de este análisis, el área de reservas implementa estrategias como descuentos en temporada baja, paquetes promocionales (alojamiento + desayuno + actividades) y alianzas con agencias de viajes para atraer clientes. Al mismo tiempo, mantiene un control riguroso de las reservas confirmadas, cancelaciones y <i>no show</i>, evitando pérdidas económicas por habitaciones vacías o sobreocupación.
+            p.mb-4 Un hotel ubicado en una zona turística registra, a través de su sistema de reservas, que durante los meses de junio y diciembre presenta una alta ocupación debido a temporadas vacacionales. En contraste, durante los meses de febrero y septiembre, la demanda disminuye significativamente. A partir de este análisis, el área de reservas implementa estrategias como descuentos en temporada baja, paquetes promocionales (alojamiento + desayuno + actividades) y alianzas con agencias de viajes para atraer clientes. Al mismo tiempo, mantiene un control riguroso de las reservas confirmadas, cancelaciones y <i>no show</i>, evitando pérdidas económicas por habitaciones vacías o sobreocupación.
             .row.align-items-center
               .col-lg-auto.d-none.d-lg-flex
                 img(src="@/assets/curso/tema3/img07.svg").mx-auto
@@ -81,7 +81,7 @@
         .titulo-sexto.color-acento-contenido
           h5 
             b Tabla 5.
-          span Códigos comunes en sistema de gestión hotelera (PMS)
+          span Códigos comunes en sistemas de gestión hotelera (PMS)
         .tabla-a.color-acento-contenido 
           table
             caption <span style="font-weight: normal">Nota. SENA, (2026).</span>

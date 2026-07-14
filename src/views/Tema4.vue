@@ -59,7 +59,7 @@
     separador
     
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2 Herramientas para la gestión de reservas
+      h2 4.2 Cualidades del personal de reservas
 
     .bloque-texto-g.bloque-texto-g--inverso.bg-color-27.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
@@ -117,7 +117,7 @@
         .tarjeta.tarjeta--blanca.row.justify-content-center.align-items-center.mb-0.p-4
           .col-lg-9.mb-4.mb-lg-0
             h5.mb-3 Caso práctico: <strong style="font-weight: 400"> impacto del área de reservas en la experiencia del cliente</strong>
-            p.mb-3 Una empresa internacional contacta al hotel Costa Azul para solicitar alojamiento para cinco ejecutivos durante un evento corporativo. El primer contacto lo realiza el agente de reservas, quien atiende la solicitud de manera clara, amable y organizada, explicando las opciones disponibles, tarifas corporativas y servicios incluidos. Además, identifica una necesidad adicional del cliente (transporte desde el aeropuerto) y ofrece una solución integrada dentro del portafolio del hotel.
+            p.mb-3 Una empresa internacional contacta al Hotel Costa Azul para solicitar alojamiento para cinco ejecutivos durante un evento corporativo. El primer contacto lo realiza el agente de reservas, quien atiende la solicitud de manera clara, amable y organizada, explicando las opciones disponibles, tarifas corporativas y servicios incluidos. Además, identifica una necesidad adicional del cliente (transporte desde el aeropuerto) y ofrece una solución integrada dentro del portafolio del hotel.
             p.mb-3 Gracias a su comunicación efectiva y actitud de servicio, el cliente decide confirmar la reserva. Sin embargo, en otro escenario, un agente con deficiencias en comunicación, poca claridad en la información o falta de amabilidad podría generar desconfianza, provocando que el cliente opte por otro hotel.
             .row.align-items-center
               .col-lg-auto.d-none.d-lg-flex

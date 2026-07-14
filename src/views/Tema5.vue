@@ -12,7 +12,7 @@
       img(src="@/assets/curso/tema5/img01.png", alt="")
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-11(data-aos="fade-right")
-        p.banner-text Las tarifas hoteleras constituyen un elemento fundamental en la gestión de reservas, ya que determinan el valor económico de los servicios ofrecidos por el establecimiento y afectan directamente la competitividad y rentabilidad del negocio. En la actualidad, el manejo de tarifas ha evolucionado significativamente debido a la aparición de múltiples canales de distribución y al uso de tecnologías especializadas, lo que ha dado lugar a modelos dinámicos de fijación de precios. Estos modelos permiten ajustar las tarifas en función de variables como la demanda, la ocupación, la temporada y el comportamiento del mercado (Organización Mundial del Turismo (OMT), 2008).
+        p.banner-text Las tarifas hoteleras constituyen un elemento fundamental en la gestión de reservas, ya que determinan el valor económico de los servicios ofrecidos por el establecimiento y afectan directamente la competitividad y rentabilidad del negocio. En la actualidad, el manejo de tarifas ha evolucionado significativamente debido a la aparición de múltiples canales de distribución y al uso de tecnologías especializadas, lo que ha dado lugar a modelos dinámicos de fijación de precios. Estos modelos permiten ajustar las tarifas en función de variables como la demanda, la ocupación, la temporada y el comportamiento del mercado (Organización Mundial del Turismo [OMT], 2008).
 
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")

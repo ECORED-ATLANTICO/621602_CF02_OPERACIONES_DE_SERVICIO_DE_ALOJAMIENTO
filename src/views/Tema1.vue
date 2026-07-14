@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img01.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Los servicios turísticos comprenden el conjunto de bienes y servicios ofrecidos por los diferentes actores del sector turismo, orientados a satisfacer las necesidades de las personas durante sus desplazamientos fuera de su entorno habitual. Estos servicios incluyen actividades relacionadas con el transporte, el alojamiento, la alimentación, la recreación y la intermediación turística, permitiendo al viajero organizar y disfrutar su experiencia en un destino determinado. En este sentido, el servicio turístico no solo responde a una necesidad de movilidad, sino que se configura como un elemento clave en la generación de experiencias, al facilitar el desarrollo de actividades distintas a la rutina cotidiana del individuo (Organización Mundial del Turismo (OMT), 2008).
+        p.mb-0 Los servicios turísticos comprenden el conjunto de bienes y servicios ofrecidos por los diferentes actores del sector turismo, orientados a satisfacer las necesidades de las personas durante sus desplazamientos fuera de su entorno habitual. Estos servicios incluyen actividades relacionadas con el transporte, el alojamiento, la alimentación, la recreación y la intermediación turística, permitiendo al viajero organizar y disfrutar su experiencia en un destino determinado. En este sentido, el servicio turístico no solo responde a una necesidad de movilidad, sino que se configura como un elemento clave en la generación de experiencias, al facilitar el desarrollo de actividades distintas a la rutina cotidiana del individuo (Organización Mundial del Turismo [OMT], 2008).
     
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-right")
@@ -60,7 +60,7 @@
                 img(src="@/assets/curso/tema1/img08.png", alt="").mx-auto
           .row.justify-content-center.align-items-center.p-4.p-lg-2
             .col-lg-7.mb-4.mb-lg-0.mb-3.mb-lg-0
-              p.mb-0 <b>Infraestructura turística:</b> comprende el conjunto de bienes y servicios básicos que facilitan el acceso, la movilidad y la permanencia en el destino turístico. Dentro de esta se incluyen las vías de comunicación, los sistemas de transporte, los servicios públicos como acueducto, energía y saneamiento, así como los sistemas de telecomunicaciones. Estos elementos no son exclusivos del turismo, pero resultan indispensables para su desarrollo, ya que permiten que los servicios turísticos se presten de manera eficiente y segura (Organización Mundial del Turismo (OMT), 2008).
+              p.mb-0 <b>Infraestructura turística:</b> comprende el conjunto de bienes y servicios básicos que facilitan el acceso, la movilidad y la permanencia en el destino turístico. Dentro de esta se incluyen las vías de comunicación, los sistemas de transporte, los servicios públicos como acueducto, energía y saneamiento, así como los sistemas de telecomunicaciones. Estos elementos no son exclusivos del turismo, pero resultan indispensables para su desarrollo, ya que permiten que los servicios turísticos se presten de manera eficiente y segura (Organización Mundial del Turismo [OMT], 2008).
             .col-md-8.col-lg-5
               figure
                 img(src="@/assets/curso/tema1/img09.png", alt="").mx-auto
@@ -158,7 +158,7 @@
       h2 1.2 Producto turístico
 
 
-    p.mb-5(data-aos="fade-right") El producto turístico se entiende como la integración de diversos elementos que, articulados dentro de un destino, permiten satisfacer las necesidades, expectativas y motivaciones del turista. Este producto no se limita a un bien o servicio aislado, sino que resulta de la combinación de atractivos turísticos, servicios de la planta turística y condiciones de accesibilidad, los cuales en conjunto configuran la experiencia del visitante. En este sentido, el producto turístico se concibe como una oferta integral que articula recursos naturales, culturales y servicios, generando valor para el usuario y competitividad para el destino (Organización Mundial del Turismo (OMT), 2008).
+    p.mb-5(data-aos="fade-right") El producto turístico se entiende como la integración de diversos elementos que, articulados dentro de un destino, permiten satisfacer las necesidades, expectativas y motivaciones del turista. Este producto no se limita a un bien o servicio aislado, sino que resulta de la combinación de atractivos turísticos, servicios de la planta turística y condiciones de accesibilidad, los cuales en conjunto configuran la experiencia del visitante. En este sentido, el producto turístico se concibe como una oferta integral que articula recursos naturales, culturales y servicios, generando valor para el usuario y competitividad para el destino (Organización Mundial del Turismo [OMT], 2008).
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -271,7 +271,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8.order-2.order-lg-1
-        p.mb-0(data-aos="fade-right") El producto turístico se materializa a través de la articulación de múltiples servicios ofrecidos por los prestadores de servicios turísticos, quienes conforman la industria turística y permiten satisfacer las diversas necesidades del viajero. Estos prestadores incluyen empresas de transporte, alojamiento, alimentación, recreación, organización de eventos y otras actividades complementarias que, operando de manera integrada, hacen posible el acceso, la permanencia y el disfrute del turista en un destino. En este sentido, el producto turístico no es un servicio aislado, sino el resultado de la interacción coordinada de diferentes actores que contribuyen a la experiencia global del usuario (Organización Mundial del Turismo (OMT), 2008).
+        p.mb-0(data-aos="fade-right") El producto turístico se materializa a través de la articulación de múltiples servicios ofrecidos por los prestadores de servicios turísticos, quienes conforman la industria turística y permiten satisfacer las diversas necesidades del viajero. Estos prestadores incluyen empresas de transporte, alojamiento, alimentación, recreación, organización de eventos y otras actividades complementarias que, operando de manera integrada, hacen posible el acceso, la permanencia y el disfrute del turista en un destino. En este sentido, el producto turístico no es un servicio aislado, sino el resultado de la interacción coordinada de diferentes actores que contribuyen a la experiencia global del usuario (Organización Mundial del Turismo [OMT], 2008).
 
       .col-lg-4.col-md-8.order-1.order-lg-2.mb-4.mb-lg-0
         figure
@@ -283,7 +283,7 @@
       .col-lg-9
         .bg-fondo-5.px-lg-5.py-lg-4.px-4.py-3.br-15
           .col-12.col-md-12
-            p.mb-0.ms-0.ms-xl-5 En el contexto colombiano, los tipos de producto turístico se relacionan directamente con los prestadores de servicios turísticos definidos por la normatividad vigente. Según la Ley 300 de 1996, se consideran prestadores de servicios turísticos todas aquellas personas naturales o jurídicas que de manera habitual proporcionan, intermedian o contratan servicios turísticos, siempre que se encuentren inscritas en el Registro Nacional de Turismo (RNT). Esta clasificación incluye establecimientos de alojamiento, agencias de viajes, operadores turísticos, empresas de transporte turístico, guías de turismo, entre otros, los cuales estructuran la oferta turística del país y permiten la comercialización de productos turísticos organizados y especializados (Fondo Nacional de Turismo (FONTUR), 2021).
+            p.mb-0.ms-0.ms-xl-5 En el contexto colombiano, los tipos de producto turístico se relacionan directamente con los prestadores de servicios turísticos definidos por la normatividad vigente. Según la Ley 300 de 1996, se consideran prestadores de servicios turísticos todas aquellas personas naturales o jurídicas que de manera habitual proporcionan, intermedian o contratan servicios turísticos, siempre que se encuentren inscritas en el Registro Nacional de Turismo (RNT). Esta clasificación incluye establecimientos de alojamiento, agencias de viajes, operadores turísticos, empresas de transporte turístico, guías de turismo, entre otros, los cuales estructuran la oferta turística del país y permiten la comercialización de productos turísticos organizados y especializados (Fondo Nacional de Turismo [FONTUR], 2021).
 
 
     .row.align-items-center.mb-5(data-aos="fade-right")
@@ -346,7 +346,7 @@
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
                 p.mb-0 Lo invitamos a ingresar al siguiente enlace web, donde podrá consultar la Ley 300 de 1996 o Ley General de Turismo, que legisla este tipo de actividades en Colombia: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
-                a.boton.color-acento-botones(:href="obtenerLink('downloads/LEY_0300_1996.pdf')" target="_blank")
+                a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexos/LEY_300_1996.pdf')" target="_blank")
                   span Ver PDF
                   i.fas.fa-file-pdf
 

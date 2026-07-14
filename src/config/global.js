@@ -151,7 +151,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/621602_CF02_DU.pdf',
+        download: 'downloads/621602_CF02_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -307,7 +307,7 @@ export default {
     },
     {
       referencia:
-        'Boullon, R. C. (2006). <em>Planificación del Espacio Turístico.</em> Ciudad de México: Editorial Trillas.',
+        'Boullón, R. C. (2006). <em>Planificación del Espacio Turístico.</em> Ciudad de México: Editorial Trillas.',
       link: '',
     },
     {

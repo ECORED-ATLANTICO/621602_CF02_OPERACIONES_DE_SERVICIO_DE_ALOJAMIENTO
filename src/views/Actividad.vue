@@ -556,9 +556,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -605,9 +607,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -655,9 +659,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -705,9 +711,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -754,9 +762,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -803,9 +813,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -852,9 +864,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -901,9 +915,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -949,9 +965,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
 
         {
@@ -999,9 +1017,11 @@ export default {
             },
           ],
 
-          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_correcto:
+            'Excelente trabajo. Tiene un claro entendimiento sobre el tema.',
 
-          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+          mensaje_incorrecto:
+            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
