@@ -83,7 +83,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Código de reservas',
+            titulo: 'Códigos de reserva',
             hash: 't_3_2',
           },
         ],
@@ -317,7 +317,7 @@ export default {
     },
     {
       referencia:
-        'Fondo Nacional de Turismo. (6 de 4 de 2021). <em>FONTUR.</em>',
+        'Fondo Nacional de Turismo. (6 de abril de 2021). <em>FONTUR.</em>',
       link: 'https://fontur.com.co/es/glosario?q=es/glosario',
     },
     {
@@ -337,7 +337,7 @@ export default {
     },
     {
       referencia:
-        'Pavón, C. R. (2012). <em>Promoción y comercialización de productos y servicios turísticos locales.</em> Málaga: IC Editorial.',
+        'Ruano Pavón, C. (2012). <em>Promoción y comercialización de productos y servicios turísticos locales.</em> Málaga: IC Editorial.',
       link:
         'http://descargas.pntic.mec.es/mentor/visitas/promocion_comercializacion_productos_servicioslocales.pdf',
     },
@@ -348,7 +348,7 @@ export default {
     },
     {
       referencia:
-        'Visión Gerencial. Marysela Coromoto Morillo Moreno (2011). <em>Turismo y producto turístico. Evolución, conceptos, componentes y clasificación.</em>',
+        'Morillo Moreno, M. C. (2011). <em>Turismo y producto turístico. Evolución, conceptos, componentes y clasificación.</em> Visión Gerencial, (1), 135-158.',
       link: 'https://www.redalyc.org/pdf/4655/465545890011.pdf',
     },
   ],

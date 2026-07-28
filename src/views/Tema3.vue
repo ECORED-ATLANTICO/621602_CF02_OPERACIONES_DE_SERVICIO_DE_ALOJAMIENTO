@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 reservas
+      h1 Reservas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
@@ -84,7 +84,7 @@
           span Códigos comunes en sistemas de gestión hotelera (PMS)
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Código
@@ -95,63 +95,63 @@
               tr
                 td RES
                 td Reserva
-                td Indica que existe una reserva registrada en el sistema.
-                td Cliente con habitación apartada para una fecha futura.
+                td Indica que existe una reserva registrada en el sistema
+                td Cliente con habitación apartada para una fecha futura
               tr
                 td CONF
                 td Confirmada
-                td Reserva confirmada por el cliente.
-                td El cliente recibió correo de confirmación.
+                td Reserva confirmada por el cliente
+                td El cliente recibió correo de confirmación
               tr
                 td CAN
                 td Cancelada
-                td Reserva anulada por el cliente o el hotel.
-                td Cliente cancela antes de la fecha.
+                td Reserva anulada por el cliente o el hotel
+                td Cliente cancela antes de la fecha
               tr
                 td NOS (<i>No Show</i>)
                 td No se presentó
-                td Cliente no llega sin cancelar.
-                td Habitación queda vacía y puede generar penalización.
+                td Cliente no llega sin cancelar
+                td Habitación queda vacía y puede generar penalización
               tr
                 td IN
                 td <i>Check-in</i>
-                td Cliente ha ingresado al hotel.
-                td Huésped llega y ocupa la habitación.
+                td Cliente ha ingresado al hotel
+                td Huésped llega y ocupa la habitación
               tr
                 td OUT
                 td <i>Check-out</i>
-                td Cliente ha salido del hotel.
-                td Finaliza la estancia.
+                td Cliente ha salido del hotel
+                td Finaliza la estancia
               tr
                 td HOLD
                 td En espera
-                td Reserva pendiente de confirmación.
-                td Cliente solicita habitación, pero no paga aún.
+                td Reserva pendiente de confirmación
+                td Cliente solicita habitación, pero no paga aún
               tr
                 td GRP
                 td Grupo
-                td Reserva de varias habitaciones.
-                td Evento empresarial con varias habitaciones.
+                td Reserva de varias habitaciones
+                td Evento empresarial con varias habitaciones
               tr
                 td OTA
                 td <i>Online Travel Agency</i>
-                td Reserva proveniente de plataforma digital.
-                td Reserva hecha por <i>Booking</i> o <i>Expedia</i>.
+                td Reserva proveniente de plataforma digital
+                td Reserva hecha por <i>Booking</i> o <i>Expedia</i>
               tr
                 td CORP
                 td Corporativa
-                td Reserva de empresa o convenio.
-                td Empresa reserva para sus empleados.
+                td Reserva de empresa o convenio
+                td Empresa reserva para sus empleados
               tr
                 td BKD
                 td <i>Booking</i>
-                td Reserva registrada en el sistema.
-                td Se genera al ingresar datos del cliente.
+                td Reserva registrada en el sistema
+                td Se genera al ingresar datos del cliente
               tr
                 td PMT
                 td Pago registrado
-                td Indica que el servicio ha sido pagado.
-                td Cliente paga anticipadamente.
+                td Indica que el servicio ha sido pagado
+                td Cliente paga anticipadamente
 
 
     .row.justify-content-center.mb-0
@@ -162,7 +162,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/img11.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Lo invitamos a consultar el siguiente video para conocer de manera práctica cómo funciona la gestión de reserva hotelera.
+                p.mb-0 Le invitamos a consultar el siguiente video para conocer de manera práctica cómo funciona la gestión de reserva hotelera.
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=xb0ZUTCUX08" target="_blank")
                   span Ver video

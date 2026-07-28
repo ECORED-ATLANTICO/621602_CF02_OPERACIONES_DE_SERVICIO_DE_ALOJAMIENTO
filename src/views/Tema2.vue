@@ -37,7 +37,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img13.svg", class="img-fluid cita-decorada__imagen-flotante-4")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Le invitamos a consultar el siguiente video, que se encuentra en el siguiente enlace, el cual resume las características principales del portafolio de servicios. 
+                p.mb-0 Le invitamos a consultar el siguiente video, el cual resume las características principales del portafolio de servicios. 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(href="https://youtu.be/3BsU1h2Syr4" target="_blank")
                   span Ver video
@@ -80,7 +80,7 @@
           span Estructura del portafolio de servicios
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Elemento
@@ -89,31 +89,31 @@
             tbody
               tr
                 td Identificación del servicio
-                td Nombre del servicio ofrecido.
+                td Nombre del servicio ofrecido
                 td Alojamiento estándar
               tr
                 td Descripción
-                td Características del servicio.
+                td Características del servicio
                 td Habitación con cama doble, baño privado
               tr
                 td Categoría
-                td Tipo de servicio (principal, complementario, valor agregado).
+                td Tipo de servicio (principal, complementario, valor agregado)
                 td Principal
               tr
                 td Beneficios
-                td Valor que aporta al cliente.
+                td Valor que aporta al cliente
                 td Descanso, comodidad
               tr
                 td Condiciones
-                td Reglas de uso del servicio.
+                td Reglas de uso del servicio
                 td Horarios, políticas
               tr
                 td Relación con otros servicios
-                td Servicios asociados.
+                td Servicios asociados
                 td Desayuno incluido
               tr
                 td Nivel de prioridad
-                td Importancia dentro del negocio.
+                td Importancia dentro del negocio
                 td Alta
 
 

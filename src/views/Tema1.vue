@@ -116,7 +116,7 @@
           span El sistema turístico y sus componentes
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Componente del sistema turístico
@@ -126,27 +126,27 @@
             tbody
               tr
                 td Estructura turística (planta turística)
-                td Conjunto de servicios y equipamientos que permiten la permanencia del turista.
+                td Conjunto de servicios y equipamientos que permiten la permanencia del turista
                 td Hoteles, restaurantes, recreación
                 td Hotel, restaurante del hotel, piscina
               tr
                 td Infraestructura turística
-                td Bienes y servicios básicos que facilitan acceso y movilidad.
+                td Bienes y servicios básicos que facilitan acceso y movilidad
                 td Vías, transporte, servicios públicos
                 td Carreteras, aeropuerto, energía del hotel
               tr
                 td Superestructura turística
-                td Entidades que regulan y promueven el turismo.
+                td Entidades que regulan y promueven el turismo
                 td MinCIT, FONTUR, PROCOLOMBIA
                 td Registro Nacional de Turismo
               tr
                 td Oferta turística
-                td Servicios disponibles para el turista.
+                td Servicios disponibles para el turista
                 td Alojamiento, <i>tours</i>, gastronomía
                 td Planes de alojamiento
               tr
                 td Demanda turística
-                td Personas que consumen servicios turísticos.
+                td Personas que consumen servicios turísticos
                 td Turistas de ocio, negocios
                 td Huéspedes del hotel
                 
@@ -216,7 +216,7 @@
           span Características del producto turístico
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Característica
@@ -308,7 +308,7 @@
           span Clasificación de los productos turísticos
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Tipo de producto turístico
@@ -317,23 +317,23 @@
             tbody
               tr
                 td Alojamiento
-                td Servicios relacionados con la estancia del turista.
+                td Servicios relacionados con la estancia del turista
                 td Hoteles, hostales, apartahoteles
               tr
                 td Transporte
-                td Servicios que facilitan el desplazamiento del turista.
+                td Servicios que facilitan el desplazamiento del turista
                 td Transporte terrestre, aéreo o turístico
               tr
                 td Recreación
-                td Actividades de ocio y entretenimiento.
+                td Actividades de ocio y entretenimiento
                 td Piscinas, <i>spa</i>, <i>tours</i>, actividades recreativas
               tr
                 td Eventos
-                td Servicios asociados a reuniones o actividades programadas.
+                td Servicios asociados a reuniones o actividades programadas
                 td Congresos, bodas, eventos empresariales
               tr
                 td Turismo especializado
-                td Servicios diseñados para intereses específicos del cliente.
+                td Servicios diseñados para intereses específicos del cliente
                 td Ecoturismo, turismo cultural, turismo de negocios
 
     .row.justify-content-center.mb-0
@@ -344,7 +344,7 @@
               .col-12.col-lg-3.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema1/img24.svg", class="img-fluid cita-decorada__imagen-flotante-3")
               .col-12.col-lg-6.cita-decorada__texto.mb-4.mb-lg-0
-                p.mb-0 Lo invitamos a ingresar al siguiente enlace web, donde podrá consultar la Ley 300 de 1996 o Ley General de Turismo, que legisla este tipo de actividades en Colombia: 
+                p.mb-0 Le invitamos a ingresar al siguiente enlace web, donde podrá consultar la Ley 300 de 1996 o Ley General de Turismo, que legisla este tipo de actividades en Colombia: 
               .col-lg-3.col-md-3.col-12.d-flex.justify-content-center
                 a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexos/LEY_300_1996.pdf')" target="_blank")
                   span Ver PDF

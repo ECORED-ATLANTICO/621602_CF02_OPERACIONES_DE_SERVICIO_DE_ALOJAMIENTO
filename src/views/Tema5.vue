@@ -49,7 +49,7 @@
           span Tipos de tarifas hoteleras
         .tabla-a.color-acento-contenido 
           table
-            caption <span style="font-weight: normal">Nota. SENA, (2026).</span>
+            caption <span style="font-weight: normal">Nota. SENA (2026).</span>
             thead
               tr
                 th Tipo de tarifa
@@ -58,43 +58,43 @@
             tbody
               tr
                 td Tarifa <i>rack</i>
-                td Tarifa oficial sin descuentos.
+                td Tarifa oficial sin descuentos
                 td Base de referencia para otras tarifas
               tr
                 td Tarifa neta o de piso
-                td Tarifa para intermediarios (sin margen incluido).
+                td Tarifa para intermediarios (sin margen incluido)
                 td Uso en agencias y plataformas
               tr
                 td Tarifa confirmada
-                td Precio acordado con el cliente al reservar.
+                td Precio acordado con el cliente al reservar
                 td Garantiza condiciones al huésped
               tr
                 td Tarifa negociada
-                td Tarifa con descuento por convenio.
+                td Tarifa con descuento por convenio
                 td Empresas, agencias, clientes frecuentes
               tr
                 td Tarifa <i>complimentary</i>
-                td Tarifa sin costo.
+                td Tarifa sin costo
                 td Cortesías, relaciones estratégicas
               tr
                 td Tarifas promocionales
-                td Tarifas con descuentos y condiciones.
+                td Tarifas con descuentos y condiciones
                 td Estrategias comerciales
               tr
                 td Tarifa BAR (<i>best available rate</i>)
-                td Mejor tarifa disponible en todos los canales.
+                td Mejor tarifa disponible en todos los canales
                 td Transparencia y venta directa
               tr
                 td Tarifa grupo o evento
-                td Tarifas para reservas grupales.
+                td Tarifas para reservas grupales
                 td Congresos, eventos, ferias
               tr
                 td Tarifa larga estadía
-                td Tarifas especiales por estancias prolongadas.
+                td Tarifas especiales por estancias prolongadas
                 td Huéspedes permanentes
               tr
                 td Paquetes o planes
-                td Combinación de servicios a precio atractivo.
+                td Combinación de servicios a precio atractivo
                 td Planes turísticos integrados
 
     .bg-full-width.bg-fondo-9.px-5.py-4.mb-5
